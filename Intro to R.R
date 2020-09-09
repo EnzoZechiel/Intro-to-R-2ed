@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for EnzoZechiel2019
+# Copy for EnzoZechiel2019BUsiness
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
